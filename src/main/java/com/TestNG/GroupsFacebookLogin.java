@@ -15,5 +15,11 @@ public class GroupsFacebookLogin {
 	{
 		System.out.println("MobileLogin");
 	}
+	
+	@Test
+	public void MobileLogin2 ()
+	{
+		System.out.println("MobileLogin2 added");
+	}
 
 }
